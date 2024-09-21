@@ -1,7 +1,13 @@
-## ロールトップの外し方と収納方法
+## ロールトップについて
+
+### 外し方
 
 左右・真ん中の計3箇所にロックがあります。
 <!-- ![locks](https://raw.githubusercontent.com/striderkein/S660-manual/images/locks.png) -->
+
+### 収納方法
+
+(なんか書く)
 
 ## SELECT ボタンについて
 
